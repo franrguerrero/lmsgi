@@ -35,4 +35,4 @@ A continuació, un petit resum del que he realitzat durant l'exercici del tema 1
 - [GitHub] (https://help.github.com/)
 
 
-[1] Prova de referència
+[1] Prova de referència!
